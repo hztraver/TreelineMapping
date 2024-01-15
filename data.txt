@@ -1,0 +1,8 @@
+Data used in this code can be found in the following public Google drive folder: https://drive.google.com/drive/folders/1Y9r-VakNLyCYvXW7HLr2nRBTOOWoG7Kt
+
+"processed_ATL08_20211210054020_12031305_005_01": example .h5 data
+
+"RFpredictors": ICESat-2 spatial support units joined to 30m Landsat spectral indices and ASTER topographic metrics
+
+"LVIS": 30m gridded LVIS height joined to modeled Random Forest model outputs
+
